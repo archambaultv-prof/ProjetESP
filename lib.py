@@ -1,2 +1,2 @@
 def dire_bonjour():
-    print("Allo mon ami !")
+    print("Allo mon super ami !")
